@@ -398,7 +398,8 @@ Enter the number of terms: 10
 Fibonacci Series: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 
 ```
 # 16 programs to print simple matrix in array   
-```C#include <stdio.h>
+```C
+#include <stdio.h>
 int main() {
   int values[5];
   printf("Enter 5 integers: ");
