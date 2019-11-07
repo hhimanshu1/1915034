@@ -51,7 +51,7 @@ Enter two integers: 12
 11
 12 + 11 = 23
 ```
-# 4.prorams to convert Centigrate to farhnhiet .
+# 4.prorams to convert Centigrate to fahrenheit .
 ```C
 #include<stdio.h>
 int main()
@@ -340,7 +340,7 @@ Output
 Enter a positive integer: 29
 29 is a prime number.
 ```
-# 14. programs to find number pallindrome or not
+# 14. programs to find number palindrome or not
 ```C
 #include <stdio.h>
 int main()
@@ -371,7 +371,7 @@ output
 Enter an integer: 1001
 1001 is a palindrome.
 ```
-# 15.programs to fybonic series 
+# 15.programs to fibonacci series 
 ```C
 #include <stdio.h>
 int main()
@@ -837,7 +837,7 @@ After Swapping
 x = 10
 y = 5
 ```
-# 19 programs to swape two number by call by refernce 
+# 19 programs to swape two number by call by refrence 
 ```C
 #include <stdio.h>
  
