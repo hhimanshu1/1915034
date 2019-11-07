@@ -2,7 +2,7 @@
 ## NAME-*HIMANSHU HEMANT*
 ## ROLL NO-*1915034*
 BRANCH-COMPUTER SCIENCE*
-![LOGO](
+![LOGO](https://github.com/hhimanshu1/1915034/blob/master/logo.jpg)
 # 1.Programs to display a welcome message using puts
 ```C
 #include<stdio.h>
