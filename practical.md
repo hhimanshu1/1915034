@@ -3,7 +3,7 @@
 ## ROLL NO-*1915034*
 BRANCH-COMPUTER SCIENCE*
 ![LOGO](
-# 1.Programs to disply a welcome message using puts
+# 1.Programs to display a welcome message using puts
 ```C
 #include<stdio.h>
 int main()
@@ -16,7 +16,7 @@ Output of program
 ```C
 HELLO TO BUDDING ENGINEERS
 ```
-# 2. programs to disply addres using puts
+# 2. programs to display address using puts
 ```C
 #include<stdio.h>
 int main()
