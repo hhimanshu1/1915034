@@ -542,7 +542,8 @@ Sum of two matrices:
 10   8   6  
 ```
 # programs to substract the two matrix
-```C#include<stdio.h>
+```C
+#include<stdio.h>
 
 int main()
 {
