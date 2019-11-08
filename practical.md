@@ -21,7 +21,7 @@ HELLO TO BUDDING ENGINEERS
 #include<stdio.h>
 int main()
 {
-puts("HIMANSHU HEMANT \n CSE A2\n 1915034\n\nZAMANIA,GHAZIPUR 232331,U.P."};
+puts("HIMANSHU HEMANT \n CSE A2\n 1915034\n ZAMANIA,GHAZIPUR 232331,U.P."};
 return 0;
 ``` 
 output of programs 
